@@ -1,5 +1,5 @@
 // src/index.js
-import tokens from "../tokens.json" assert { type: "json" };
+import tokens from "../color_number_tokens.json" assert { type: "json" };
 
 /**
  * Базовые утилиты
